@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*ID Selectors*/
+
+#Banner {
+	text-align:center;
+	background-color:#B3f7f5;
+}
+
+#Nav_Bar{
+	text-align:center;
+	background-color:#82D6F4;
+
+}
+
+#Main_content {
+	text-align:left;
+}
+
+#Footer{
+	text-align:center;
+	font-size:9px;
+}
+/*tag selector*/
+
+Body {
+	background-color:#B41C1F;
+}
